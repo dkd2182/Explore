@@ -1,7 +1,6 @@
 deepali git project
 
-new data 
-two data 
+
 Download for Linux and Unix
 It is easiest to install Git on Linux using the preferred package manager of your Linux distribution.
 new data 
